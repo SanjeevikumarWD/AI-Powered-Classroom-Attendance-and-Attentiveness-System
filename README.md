@@ -1,6 +1,5 @@
 # Automated Classroom Attendance and Attentiveness Monitoring System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.0.1-green)](https://flask.palletsprojects.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)](https://www.mysql.com/)
@@ -9,9 +8,6 @@
 
 This project introduces an innovative solution that streamlines and enhances student attendance tracking and attentiveness monitoring in academic settings. By leveraging advanced facial recognition technology and emotion analysis algorithms, the system provides a seamless, efficient, and accurate method for professors to manage classroom dynamics.
 
-<p align="center">
-  <img src="https://github.com/username/classroom-monitoring-system/raw/main/docs/system_overview.png" alt="System Overview" width="600">
-</p>
 
 ## ✨ Key Features
 
@@ -39,10 +35,6 @@ The system follows a multi-layered architecture:
 3. **Face Recognition**: Matching faces against a database using Facenet512
 4. **Emotion Analysis**: Assessing attentiveness through facial expressions
 5. **Data Management**: Storing and retrieving attendance and engagement data
-
-<p align="center">
-  <img src="https://github.com/username/classroom-monitoring-system/raw/main/docs/architecture.png" alt="Architecture Diagram" width="600">
-</p>
 
 ## ⚙️ Implementation Details
 
